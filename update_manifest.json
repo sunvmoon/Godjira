@@ -1,5 +1,5 @@
 {
     "latest_version": "4.1.3",
-    "download_url": "https://github.com/sunvmoon/Godjira/releases/download/v4.0.0/Godjira.4.1.3.exe",
-    "changelog": "Initial release of Godjira v4.1.3 BETA (Tested Only)."
+    "download_url": "https://github.com/sunvmoon/Godjira/releases/download/v4.0.0/Godjira.4.2.0.exe",
+    "changelog": "Fix: automation sekarang otomatis mendeteksi & memperbaiki arah Linked Issues dari 'blocks' menjadi 'is blocked by' saat ticket di-resolve. Proses add watcher dan comment sudah di automasi"
 }
